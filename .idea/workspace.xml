@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf9863f3-04dc-4d69-bec8-27fcacd73d41" name="Default Changelist" comment="" />
+    <list default="true" id="cf9863f3-04dc-4d69-bec8-27fcacd73d41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,7 +198,7 @@
       <workItem from="1576493288657" duration="3524000" />
       <workItem from="1576499531145" duration="1353000" />
       <workItem from="1576504414191" duration="1400000" />
-      <workItem from="1576505826716" duration="1298000" />
+      <workItem from="1576505826716" duration="2537000" />
     </task>
     <task id="LOCAL-00001" summary="lesson">
       <created>1576333341530</created>
@@ -212,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576499686611</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson">
+      <created>1576507392418</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576507392418</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,14 +267,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1139" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575983115303" />
-    <state x="1019" y="170" key="CommitChangelistDialog2" timestamp="1576500157587">
+    <state x="947" y="223" key="CommitChangelistDialog2" timestamp="1576508529332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1019" y="170" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576500157587" />
-    <state x="1197" y="172" width="440" height="543" key="FileChooserDialogImpl" timestamp="1576507255637">
+    <state x="947" y="223" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576508529332" />
+    <state x="1197" y="172" width="440" height="543" key="FileChooserDialogImpl" timestamp="1576508500819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1197" y="172" width="440" height="543" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576507255637" />
+    <state x="1197" y="172" width="440" height="543" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576508500819" />
     <state width="914" height="204" key="GridCell.Tab.0.bottom" timestamp="1576499519165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -290,10 +299,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="356" y="227" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576506220361" />
-    <state x="1033" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576499740669">
+    <state x="1061" y="310" key="Vcs.Push.Dialog.v2" timestamp="1576507465505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1033" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576499740669" />
+    <state x="1061" y="310" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576507465505" />
     <state x="981" y="239" key="chooseDestDirectoryDialog" timestamp="1576060410827">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
