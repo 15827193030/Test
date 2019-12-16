@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf9863f3-04dc-4d69-bec8-27fcacd73d41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\maven_java\maven_java\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven_jar\maven_repository" />
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Umqe0YCvD0k5TKjBlB6FnxTaeP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/testall/com/Zhangquan" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git_object" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.Zhangquan" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\maven_java" />
+      <recent name="D:\maven_java\maven_java" />
+      <recent name="D:\maven_java\maven_java\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LessonArrayTest.LessonArrayDuoWeiArray">
+    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Zhangquan.First" />
+      <module name="maven_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Zhangquan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessonArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Zhangquan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Zhangquan" />
+      <option name="MAIN_CLASS_NAME" value="com.Zhangquan.LessonArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessonArrayTest.LessonArrayDuoWeiArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Zhangquan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Zhangquan" />
+      <option name="MAIN_CLASS_NAME" value="com.Zhangquan.LessonArrayTest" />
+      <option name="METHOD_NAME" value="LessonArrayDuoWeiArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessonArrayTest.ppp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Zhangquan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Zhangquan" />
+      <option name="MAIN_CLASS_NAME" value="com.Zhangquan.LessonArrayTest" />
+      <option name="METHOD_NAME" value="ppp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessonArrayTest.twoSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Zhangquan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Zhangquan" />
+      <option name="MAIN_CLASS_NAME" value="com.Zhangquan.LessonArrayTest" />
+      <option name="METHOD_NAME" value="twoSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LessonArrayTest.LessonArrayDuoWeiArray" />
+        <item itemvalue="Application.First" />
+        <item itemvalue="JUnit.LessonArrayTest" />
+        <item itemvalue="JUnit.LessonArrayTest.ppp" />
+        <item itemvalue="JUnit.LessonArrayTest.twoSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf9863f3-04dc-4d69-bec8-27fcacd73d41" name="Default Changelist" comment="" />
+      <created>1575972209310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575972209310</updated>
+      <workItem from="1575972213973" duration="4380000" />
+      <workItem from="1575976742106" duration="3825000" />
+      <workItem from="1575981586103" duration="5636000" />
+      <workItem from="1576060056018" duration="10547000" />
+      <workItem from="1576151662975" duration="11714000" />
+      <workItem from="1576233333091" duration="3949000" />
+      <workItem from="1576246309548" duration="4318000" />
+      <workItem from="1576324257436" duration="1386000" />
+      <workItem from="1576330817526" duration="5519000" />
+      <workItem from="1576493288657" duration="3524000" />
+      <workItem from="1576499531145" duration="1353000" />
+      <workItem from="1576504414191" duration="1400000" />
+      <workItem from="1576505826716" duration="1298000" />
+    </task>
+    <task id="LOCAL-00001" summary="lesson">
+      <created>1576333341530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576333341530</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lesson">
+      <created>1576499686611</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576499686611</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="D:/Git_hub" />
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/testall" />
+    </ignored-roots>
+    <MESSAGE value="。。。。" />
+    <MESSAGE value="lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="537" y="173" key="#FirstTest.ifElse" timestamp="1575975368121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="173" key="#FirstTest.ifElse/0.0.1920.1040@0.0.1920.1040" timestamp="1575975368121" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1575989864150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1575989864150" />
+    <state x="1220" y="374" width="441" height="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576498446674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="374" width="441" height="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1576498446674" />
+    <state x="1139" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575983115303">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1139" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575983115303" />
+    <state x="1019" y="170" key="CommitChangelistDialog2" timestamp="1576500157587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1019" y="170" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576500157587" />
+    <state x="1197" y="172" width="440" height="543" key="FileChooserDialogImpl" timestamp="1576507255637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1197" y="172" width="440" height="543" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576507255637" />
+    <state width="914" height="204" key="GridCell.Tab.0.bottom" timestamp="1576499519165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576499519165" />
+    <state width="914" height="204" key="GridCell.Tab.0.center" timestamp="1576499519165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="204" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576499519165" />
+    <state width="914" height="204" key="GridCell.Tab.0.left" timestamp="1576499519165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="204" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576499519165" />
+    <state width="914" height="204" key="GridCell.Tab.0.right" timestamp="1576499519165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="204" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576499519165" />
+    <state x="905" y="247" key="NewModule_or_Project.wizard" timestamp="1576506485301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="905" y="247" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1576506485301" />
+    <state x="356" y="227" key="SettingsEditor" timestamp="1576506220361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="356" y="227" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576506220361" />
+    <state x="1033" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576499740669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1033" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576499740669" />
+    <state x="981" y="239" key="chooseDestDirectoryDialog" timestamp="1576060410827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="981" y="239" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576060410827" />
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1576505826764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576505826764" />
+    <state x="851" y="182" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1576060410849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="851" y="182" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576060410849" />
+    <state x="990" y="249" width="672" height="678" key="search.everywhere.popup" timestamp="1576154073489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="990" y="249" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576154073489" />
+    <state x="1209" y="341" key="svn.repositoryBrowser" timestamp="1576331215353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1209" y="341" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1576331215353" />
+  </component>
+</project>
